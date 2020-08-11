@@ -1,0 +1,14 @@
+# Ignorar executáveis e arquivos objetos
+*.exe
+*.o
+# Ignorar arquivo do Word com rascunho dos enunciados
+*.docx
+# Ignorar .zip
+*.zip
+# Ignorar pastas de Rascunhos
+VERSAO_2/
+Aquecimento/
+# Ignorar problema que não foi colocado na prova oficial e fará parte de outro contest futuro.
+Problema-G/
+Gerador_IOs/ProblemaG_IOs.cpp
+Validadores-Polygon/Validator-G.cpp
